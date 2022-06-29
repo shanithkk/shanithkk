@@ -6,13 +6,11 @@ System Developer
 
 I'm starting my career as system developer in HugoByte AI Labs
 
-* 🌍  I'm based in india
-* 🖥️  See my portfolio at [shanith.kk](http://shanithkk.github.io/portfolio/)
-* ✉️  You can contact me at [kkshanith@gmail.com](mailto:kkshanith@gmail.com)
-* 🧠  I'm learning Rust, Substrate and Blockchain
+* 🌍  I'm based in india
+* 🖥️  See my portfolio at [shanith.kk](http://shanithkk.github.io/portfolio/)
+* ✉️  You can contact me at [kkshanith@gmail.com](mailto:kkshanith@gmail.com)
+* 🧠  I'm learning Rust, Substrate and Blockchain
 
-<a href="https://www.github.com/shanithkk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shanithkk?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 ### Skills
 
 <p align="left">
@@ -32,9 +30,11 @@ src="https://img.shields.io/github/followers/shanithkk?logo=github&style=for-the
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/shanithkk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/shanith_kk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shanith-k-k-09378988" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/kkshanith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14279114/shanith-k-k" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/shanith_kk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
