@@ -43,11 +43,11 @@ I'm starting my career as system developer in HugoByte AI Labs
 
 <a href="http://www.github.com/shanithkk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shanithkk&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/shanithkk"><img src="https://activity-graph.herokuapp.com/graph?username=shanithkk&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+<!-- <a href="http://www.github.com/shanithkk"><img src="https://activity-graph.herokuapp.com/graph?username=shanithkk&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<!-- 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
 
 ### Support Me
 
