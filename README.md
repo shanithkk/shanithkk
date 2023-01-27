@@ -9,7 +9,7 @@ I'm starting my career as system developer in HugoByte AI Labs
 * 🌍  I'm based in india
 * 🖥️  See my portfolio at [shanith.kk](http://shanithkk.github.io/portfolio/)
 * ✉️  You can contact me at [kkshanith@gmail.com](mailto:kkshanith@gmail.com)
-* 🧠  I'm learning Rust, Smart-Contract, Substrate and Blockchain
+* 🧠  I'm learning Rust, Substrate and Blockchain Development
 
 ### Skills
 
