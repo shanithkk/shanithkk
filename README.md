@@ -6,10 +6,11 @@ System Developer
 
 I'm starting my career as system developer in HugoByte AI Labs
 
+*🌱 I’m currently diving deep into advanced blockchain development and distributed systems.
+*👯 I’m looking to collaborate on Rust backend, Blockchain.
 * 🌍  I'm based in india
-* 🖥️  See my portfolio at [shanith.kk](http://shanithkk.github.io/portfolio/)
 * ✉️  You can contact me at [kkshanith@gmail.com](mailto:kkshanith@gmail.com)
-* 🧠  I'm learning Rust, Substrate and Blockchain Development
+* 🧠  Expertise in Rust, Substrate and Blockchain Development.
 
 ### Skills
 
