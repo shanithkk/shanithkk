@@ -4,13 +4,13 @@ Hi 👋 My name is SHANiTH K K
 System Developer
 ----------------
 
-Working as Senior Rust Developer in Futerense tech, I'm started my career as system developer in HugoByte AI Labs.
+Working as Senior Rust Developer
 
 * 🌱 I’m currently diving deep into advanced blockchain development and distributed systems.
 * 👯 I’m looking to collaborate on Rust backend, Blockchain.
 * 🌍  I'm based in india
 * ✉️  You can contact me at [kkshanith@gmail.com](mailto:kkshanith@gmail.com)
-* 🧠  Expertise in Rust, Substrate and Blockchain Development.
+* 🧠  Expertise in Rust, Substrate, Blockchain Development and IoT application.
 
 ### Skills
 
